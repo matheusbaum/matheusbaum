@@ -1,5 +1,5 @@
 <h2>Hello everbody! 👋</h2>
-<p>🧑‍💻 DevOps | Developer. </p>
+<p>🧑‍💻 Developer. </p>
 <p>📅 20y. </p>
 
 <h2>My social media 👇 </h2>
